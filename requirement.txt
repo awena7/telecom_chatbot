@@ -1,5 +1,0 @@
-flask
-textblob
-chromadb
-sentence-transformers
-ollama  # only if pip package available, else just install Ollama app separately
