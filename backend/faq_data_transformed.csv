@@ -1,0 +1,63 @@
+type,customer_input,bot_reply
+General,Hello,Hello! Welcome to XYZ Telecom. How can I assist you today?
+General,Hi,Hi there! How may I help you with your telecom services?
+General,Good morning,Good morning! How can I assist you today?
+General,Good evening,Good evening! How may I help you?
+General,What services do you offer?,"We offer prepaid, postpaid, broadband internet, and DTH services. Would you like details about any specific one?"
+General,Do you have 24/7 support?,"Yes, we provide 24/7 customer support. You can reach us anytime through this chat or our helpline."
+General,Can I talk to a human?,"I can help with most queries, but if you prefer, I can connect you to a human support agent."
+Billing,What is my current bill amount?,You can check your current bill in the XYZ Telecom app or website. Do you want me to send you the link?
+Billing,How do I pay my bill?,"You can pay your bill through our app, website, UPI, or at the nearest store."
+Billing,When is my bill due?,You can find your bill due date in your last statement or in the app.
+Billing,Can I get a bill receipt?,"Yes, after payment you will receive a digital receipt via SMS and email."
+Billing,Do you charge late fees?,"Yes, late payment charges apply if bills are not paid by the due date."
+Billing,How do I download my bill?,You can download your bill from the XYZ Telecom app or website under 'My Bills'.
+Billing,Can I pay in installments?,"Yes, for high-value bills we allow installment payments. Would you like details on how to apply?"
+Recharge,How do I recharge my number?,"You can recharge through our app, website, UPI apps, or at a retailer shop."
+Recharge,What are the latest recharge plans?,"We have daily data packs, unlimited calling packs, and long validity plans. Would you like me to share details?"
+Recharge,Can I set auto-recharge?,"Yes, you can enable auto-recharge in our app by linking your payment method."
+Recharge,Share top-up plans,Sure! We have top-up plans ranging from â‚¹10 to â‚¹500. Which amount would you prefer?
+Recharge,Data pack options?,"We offer 1GB/day, 1.5GB/day, and 2GB/day data packs. Would you like full details?"
+Recharge,International packs?,"Yes, we provide international roaming and data packs. Which country do you need it for?"
+Network Issue,My internet is not working,"Please restart your device and check network settings. If the issue continues, I can raise a complaint."
+Network Issue,Why is my internet so slow?,Network speed may be affected by location or congestion. Try restarting your phone or switching to 4G/5G mode.
+Network Issue,No signal on my phone,"Please check if your SIM is inserted properly and restart your phone. If it persists, I can register a complaint."
+Network Issue,Poor network indoors,Indoor coverage may be weaker. You can enable Wi-Fi calling for better experience.
+Network Issue,Is there an outage in my area?,Let me check service updates for your area. Could you please share your location?
+Network Issue,Why does my call drop?,Call drops may occur due to weak signals or congestion. Restart your device and try again.
+Network Issue,How do I fix weak signal?,"Try restarting your device, enabling airplane mode for a minute, or checking SIM settings."
+Complaint,I want to register a complaint,"Sure, please share the issue and I will log a complaint for you with a reference ID."
+Complaint,How can I track my complaint?,You can track complaint status in the app or by sharing your complaint ID here.
+Complaint,Your service is very bad,I'm sorry to hear that. Can you tell me more about the problem so I can resolve it quickly?
+Complaint,My issue is not solved,I apologize for the inconvenience. I can escalate this complaint to higher support.
+Complaint,How long to fix my issue?,"Resolution time depends on the issue type, usually within 24-48 hours."
+New Connection,I want a new SIM card,You can apply for a new SIM online or visit the nearest XYZ Telecom store with valid ID proof.
+New Connection,Do you have home internet plans?,"Yes, we offer broadband and fiber internet plans. May I know your area to check availability?"
+New Connection,How to port my number?,"You can port your number by sending an SMS with 'PORT <your number>' to 1900, then visit our store with the UPC code."
+New Connection,What documents are required for SIM?,You need a valid government ID proof and a passport-size photo.
+New Connection,Can I choose a fancy number?,"Yes, we offer VIP/fancy numbers at additional cost. Would you like details?"
+Offers,Do you have any offers?,"Yes! We have special prepaid and postpaid offers. Would you like data, calling, or combo plans?"
+Offers,What is the best plan for students?,Our student pack includes 2GB/day with unlimited calls and free OTT subscriptions.
+Offers,Any roaming offers?,"Yes, we provide both national and international roaming packs. Would you like me to share them?"
+Offers,Festival offers?,"Yes, we have special festival recharge offers. Check the app for limited-time deals."
+Offers,Family plans?,"Yes, we provide family postpaid plans where you can add multiple numbers under one bill."
+Account,How do I change my plan?,You can upgrade or change your plan through the XYZ Telecom app or by visiting the nearest store.
+Account,How do I check my data balance?,"You can check your balance by dialing *123#, using our app, or asking me here."
+Account,How do I update my email or phone number?,You can update details in the app under 'My Profile' or visit the nearest store with ID proof.
+Account,Forgot my account password,You can reset your password using the 'Forgot Password' option in the app or website.
+Account,How do I deactivate my number?,You can request deactivation via our customer care or at the nearest store.
+faq,How can I check my data balance?,You can check your data balance by dialing *123# or using our mobile app.
+faq,How do I activate roaming?,"To activate roaming, go to your mobile settings and enable data roaming, or send 'ROAM ON' to 12345."
+faq,Why is my internet speed slow?,Internet speed may be affected by network congestion or your data plan. Try restarting your device.
+faq,How to recharge my number?,"You can recharge via our website, mobile app, or any nearby retail store."
+faq,What is the customer care email ID?,You can email us at support@telecomxyz.com.
+faq,My WiFi is not working,I'm sorry to hear that. Please restart your router and check if the cables are connected properly.
+faq,Internet keeps disconnecting,This may be due to weak signal or network congestion. Try moving closer to the router or restarting it.
+faq,Slow WiFi speed,Please check how many devices are connected. Too many devices can reduce speed. You can also restart your router for better performance.
+faq,How do I change my WiFi password?,You can change your WiFi password through the XYZ Telecom app or by logging into your router settings.
+faq,How can I upgrade my WiFi plan?,You can upgrade to a higher speed or unlimited plan through our app or website. Would you like to see available plans in your area?
+faq,Do you provide fiber connection?,"Yes, we provide high-speed fiber broadband in many areas. May I know your location to check availability?"
+faq,How long does installation take?,Broadband installation usually takes 24–48 hours after booking. Our technician will contact you for scheduling.
+faq,Router not working,"Please check if the power adapter is properly connected. If the router lights are off, try using another socket. If it still doesn’t work, I can arrange a technician visit."
+faq,How to check WiFi usage?,You can track your daily and monthly WiFi usage in the XYZ Telecom app under the Broadband section.
+faq,Do you provide unlimited WiFi plans?,",Yes, we have unlimited data broadband plans. Would you like me to show available options?"

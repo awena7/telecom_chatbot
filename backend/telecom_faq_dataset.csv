@@ -1,0 +1,93 @@
+type,customer_input,bot_reply
+Troubleshooting,My Wi-Fi is very slow.,I am sorry to hear that. Could you try restarting your router and placing it in a central location for better coverage?
+Troubleshooting,My internet keeps disconnecting.,Please check if the router cables are properly connected. Restarting the modem can also help.
+Troubleshooting,The lights on my router are blinking.,Blinking lights usually mean the router is trying to connect. Please wait a few minutes or restart the router.
+Troubleshooting,My router is not turning on.,Please check if the power cable is connected securely and try plugging it into another outlet.
+Troubleshooting,My phone is not connecting to Wi-Fi.,Can you please try forgetting the Wi-Fi network and reconnecting using the correct password?
+Troubleshooting,I am facing frequent signal drops.,Signal drops can happen if the router is placed near walls or appliances. Try moving it to an open area.
+Troubleshooting,Why is my 5G Wi-Fi not showing up?,"Please check if your device supports 5G Wi-Fi. Also, ensure the 5G option is enabled in your router settings."
+Troubleshooting,I cannot connect multiple devices to my Wi-Fi.,Most routers support multiple devices. Please restart your router and try again.
+Troubleshooting,My internet speed is too low.,Please check if other devices are using heavy downloads. Restarting your modem may improve the speed.
+Troubleshooting,The broadband connection is unstable.,"Kindly restart your modem and check the cables. If the issue continues, our support team can help further."
+Troubleshooting,My router keeps restarting automatically.,This could be due to overheating or faulty power. Please keep it in a ventilated area and check the adapter.
+Troubleshooting,My Wi-Fi is not covering the whole house.,You may need a Wi-Fi extender or mesh system for larger coverage.
+Troubleshooting,Websites load but videos keep buffering.,Please check if other devices are streaming. Restart your router to refresh the connection.
+Troubleshooting,My smart TV cannot connect to Wi-Fi.,"Please try reconnecting to the network, and ensure your TV firmware is updated."
+Troubleshooting,My router overheats quickly.,"Please keep your router in an open, well-ventilated area away from direct sunlight."
+Troubleshooting,I forgot my router admin password.,You can reset the router by holding the reset button for 10 seconds and reconfigure it.
+Troubleshooting,The Ethernet port is not working.,"Please try another cable or port. If the issue persists, the hardware may be faulty."
+Troubleshooting,Why is my upload speed so low?,Upload speeds depend on your plan. Try restarting the router and avoiding background uploads.
+Troubleshooting,My router doesn't detect the broadband cable.,Please check the cable connection and try inserting it firmly.
+Troubleshooting,My Wi-Fi disconnects when I move to another room.,This may be due to weak signals. Try repositioning your router or using a Wi-Fi extender.
+Troubleshooting,My Wi-Fi is very slow.,I am sorry to hear that. Could you try restarting your router and placing it in a central location for better coverage?
+Troubleshooting,My internet keeps disconnecting.,Please check if the router cables are properly connected. Restarting the modem can also help.
+Troubleshooting,The lights on my router are blinking.,Blinking lights usually mean the router is trying to connect. Please wait a few minutes or restart the router.
+Troubleshooting,My router is not turning on.,Please check if the power cable is connected securely and try plugging it into another outlet.
+Troubleshooting,My phone is not connecting to Wi-Fi.,Can you please try forgetting the Wi-Fi network and reconnecting using the correct password?
+Troubleshooting,I am facing frequent signal drops.,Signal drops can happen if the router is placed near walls or appliances. Try moving it to an open area.
+Troubleshooting,Why is my 5G Wi-Fi not showing up?,"Please check if your device supports 5G Wi-Fi. Also, ensure the 5G option is enabled in your router settings."
+Troubleshooting,I cannot connect multiple devices to my Wi-Fi.,Most routers support multiple devices. Please restart your router and try again.
+Troubleshooting,My internet speed is too low.,Please check if other devices are using heavy downloads. Restarting your modem may improve the speed.
+Troubleshooting,The broadband connection is unstable.,"Kindly restart your modem and check the cables. If the issue continues, our support team can help further."
+Troubleshooting,My router keeps restarting automatically.,This could be due to overheating or faulty power. Please keep it in a ventilated area and check the adapter.
+Troubleshooting,My Wi-Fi is not covering the whole house.,You may need a Wi-Fi extender or mesh system for larger coverage.
+Troubleshooting,Websites load but videos keep buffering.,Please check if other devices are streaming. Restart your router to refresh the connection.
+Troubleshooting,My smart TV cannot connect to Wi-Fi.,"Please try reconnecting to the network, and ensure your TV firmware is updated."
+Troubleshooting,My router overheats quickly.,"Please keep your router in an open, well-ventilated area away from direct sunlight."
+Troubleshooting,I forgot my router admin password.,You can reset the router by holding the reset button for 10 seconds and reconfigure it.
+Troubleshooting,The Ethernet port is not working.,"Please try another cable or port. If the issue persists, the hardware may be faulty."
+Troubleshooting,Why is my upload speed so low?,Upload speeds depend on your plan. Try restarting the router and avoiding background uploads.
+Troubleshooting,My router doesn't detect the broadband cable.,Please check the cable connection and try inserting it firmly.
+Troubleshooting,My Wi-Fi disconnects when I move to another room.,This may be due to weak signals. Try repositioning your router or using a Wi-Fi extender.
+FAQ,How do I reset my Wi-Fi router?,You can reset by pressing and holding the reset button on the back of your router for 10 seconds.
+FAQ,How do I change my Wi-Fi password?,"Log in to your router settings page, go to Wireless Security, and update your Wi-Fi password."
+FAQ,What is the difference between 2.4GHz and 5GHz Wi-Fi?,"2.4GHz covers a wider area but is slower, while 5GHz is faster but covers a shorter range."
+FAQ,How do I improve Wi-Fi coverage in my home?,You can place your router in a central area or use Wi-Fi extenders for better coverage.
+FAQ,What is fiber internet?,Fiber internet uses optical fiber cables to provide faster and more reliable internet speeds compared to traditional broadband.
+FAQ,How long does it take for a new broadband connection to activate?,Broadband services usually activate within 48 hours after installation.
+FAQ,Do you provide 24/7 support?,"Yes, our customer support is available 24/7 for your convenience."
+FAQ,How do I set up a new Wi-Fi router?,"Plug it into power and broadband, then configure it using the setup app or web portal."
+FAQ,Can I use my own router with your service?,"Yes, but please ensure the router is compatible with our broadband technology."
+FAQ,How many devices can connect to my Wi-Fi?,Most routers support 30 devices depending on model and bandwidth usage.
+FAQ,How do I reset my Wi-Fi router?,You can reset by pressing and holding the reset button on the back of your router for 10 seconds.
+FAQ,How do I change my Wi-Fi password?,"Log in to your router settings page, go to Wireless Security, and update your Wi-Fi password."
+FAQ,What is the difference between 2.4GHz and 5GHz Wi-Fi?,"2.4GHz covers a wider area but is slower, while 5GHz is faster but covers a shorter range."
+FAQ,How do I improve Wi-Fi coverage in my home?,You can place your router in a central area or use Wi-Fi extenders for better coverage.
+FAQ,What is fiber internet?,Fiber internet uses optical fiber cables to provide faster and more reliable internet speeds compared to traditional broadband.
+FAQ,How long does it take for a new broadband connection to activate?,Broadband services usually activate within 48 hours after installation.
+FAQ,What is the maximum speed of your broadband?,"Our fiber broadband plans offer speeds up to 1 Gbps, depending on your location."
+FAQ,Do you have international roaming packs for students?,"Yes, we have affordable roaming packs designed for students studying abroad."
+FAQ,What is the customer care email address?,Our customer support email is care@xyztelecom.com. You can write to us anytime.
+FAQ,What documents are required for broadband connection?,You need a valid government ID proof (like Aadhaar/Passport) and one address proof.
+FAQ,Do you provide WiFi routers?,"Yes, we provide free routers with certain broadband plans. For others, it may be chargeable."
+FAQ,Can I suspend my number temporarily?,"Yes, you can request temporary suspension through customer care or our app."
+FAQ,Do you provide parental controls for WiFi?,"Yes, our routers support parental control features to block or limit usage for certain devices."
+FAQ,Can I relocate my broadband connection?,"Yes, you can request relocation through the app or by contacting customer support."
+FAQ,Do you provide installation on Sundays?,"Yes, broadband installation is available on weekends depending on technician availability."
+Complaint,I want to report poor coverage in my area.,I am sorry to hear that. Could you please share your area so we can note this for our technical team?
+Complaint,My Wi-Fi router is defective.,I understand. Please check if it's still under warranty so we can guide you with replacement steps.
+Complaint,The technician has not visited yet.,I apologize for the delay. Could you please provide your ticket ID so we can check the status?
+Complaint,My broadband has been down for hours.,We are sorry for the inconvenience. Our technical team is already working on restoring the service.
+Complaint,The router provided is outdated.,Thank you for your feedback. We will note this and recommend an upgrade option if available.
+Complaint,The WiFi coverage doesn’t reach all rooms,This is common in large homes. We recommend WiFi extenders or mesh routers. I can suggest the best option for you.
+Complaint,The router provided by you is faulty,I apologize for the inconvenience. We can replace your router free of cost if it's under warranty. Shall I book a replacement?
+Complaint,My broadband keeps disconnecting frequently,That sounds frustrating. I can arrange a line check and schedule a technician visit if required.
+Complaint,The technician never came for installation,I'm sorry to hear this. I will immediately reschedule your technician visit and escalate the delay.
+Complaint,My broadband installation is delayed,I'm sorry for the delay. Let me check your installation request status and escalate it to our support team if needed.
+Complaint,Your internet is very bad,I'm really sorry to hear that. Could you share your location so I can check network issues in your area?
+Complaint,My SIM stopped working,"That sounds frustrating. Please restart your phone. If it still doesn’t work, I can arrange a SIM replacement."
+Complaint,I have been overcharged,I'm sorry for the trouble. Could you please share your bill details so I can verify and help you raise a correction request?
+Complaint,My issue is not solved yet,I apologize for the inconvenience. Let me recheck your case and escalate it to the concerned team.
+General Query,How do I download your app?,"Our mobile app is available on Google Play Store and Apple App Store. Search for ""XYZ Telecom""."
+General Query,What payment methods do you accept?,"We accept UPI, debit/credit cards, net banking, wallets, and cash at stores."
+General Query,How can I contact support?,"You can contact us through this chat, our app, website, or by calling 198."
+General Query,Do you have 5G services?,"Yes, we provide 5G in selected cities. May I know your location to check availability?"
+General Query,Where is the nearest XYZ Telecom store?,You can find the nearest store by visiting our website or app and using the Store Locator feature.
+General Query,What is your customer care number?,Our customer care helpline is 198 (toll-free). You can also chat with me anytime.
+General Query,What is 5G?,"5G is the fifth-generation mobile network that offers faster internet, low latency, and better connectivity."
+General Query,What is a Wi-Fi mesh system?,A Wi-Fi mesh system uses multiple nodes to provide seamless coverage throughout your home.
+General Query,What is a router extender?,An extender helps boost Wi-Fi signals to cover areas with weak connectivity.
+General Query,What is broadband?,Broadband is high-speed internet access through wired or wireless connections.
+General Query,What is Ethernet?,Ethernet is a wired networking technology that provides stable and fast connections.
+Complaint,The internet disconnects every night,Thank you for reporting this. It could be scheduled maintenance. I’ll check the logs and escalate it to our team.
+Complaint,My internet stops working when there is rain,I understand your concern. Weather can affect the connection. I’ll register this as a complaint for a field inspection.

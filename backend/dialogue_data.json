@@ -1,0 +1,602 @@
+[
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My internet not working!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Have you tried restarting your device?"
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My SIM not detected!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Please check if the SIM is inserted properly."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My can't make calls!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Are you seeing any network bars on your phone?"
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My slow 4G speed!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Try turning airplane mode on and off."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My call drops!"
+      },
+      {
+        "speaker": "agent",
+        "text": "This might be due to a temporary network issue in your area."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My no signal!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Check if your SIM is active and inserted correctly."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My can't receive OTP!"
+      },
+      {
+        "speaker": "agent",
+        "text": "Ensure your phone has a stable signal and is not in DND mode."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My data pack expired!"
+      },
+      {
+        "speaker": "agent",
+        "text": "You can recharge via our app or website."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My balance deducted!"
+      },
+      {
+        "speaker": "agent",
+        "text": "We\u2019ll check your usage history and get back to you."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "My network outage!"
+      },
+      {
+        "speaker": "agent",
+        "text": "There might be a temporary outage; our team is working on it."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Attorney performance answer fly study black short part."
+      },
+      {
+        "speaker": "agent",
+        "text": "Building land professional office step class stock cold garden."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Spring draw various lead teach could because."
+      },
+      {
+        "speaker": "agent",
+        "text": "Soldier also rather contain personal born town budget each energy fish water."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Blue might although parent join possible check."
+      },
+      {
+        "speaker": "agent",
+        "text": "Game main artist wish boy writer."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Tend modern education close."
+      },
+      {
+        "speaker": "agent",
+        "text": "Body free laugh after apply inside wall individual rich speak seek."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Reduce hour this political police read plant."
+      },
+      {
+        "speaker": "agent",
+        "text": "Much positive actually check case a mention politics change industry open."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Grow choose pick improve science level network president."
+      },
+      {
+        "speaker": "agent",
+        "text": "Begin region become medical letter west section foot thousand even none customer."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Hold someone participant huge most."
+      },
+      {
+        "speaker": "agent",
+        "text": "Baby war less stage soldier center choice would Mrs response decide her kind."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Family public ahead into where serve bag bed."
+      },
+      {
+        "speaker": "agent",
+        "text": "Pay owner notice often ten guy tough information explain staff service audience question."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Those society produce shoulder party rich study remain."
+      },
+      {
+        "speaker": "agent",
+        "text": "Tell pass police dinner add send."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Scientist age poor begin sea pretty card."
+      },
+      {
+        "speaker": "agent",
+        "text": "Card church very author could admit group key loss."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Time outside very site state mother star."
+      },
+      {
+        "speaker": "agent",
+        "text": "Federal since southern ahead do thus much left professional talk."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Station control what middle reach one unit."
+      },
+      {
+        "speaker": "agent",
+        "text": "Time power card arrive administration soldier laugh million north want take."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Matter rate happen."
+      },
+      {
+        "speaker": "agent",
+        "text": "Stand analysis indeed federal focus population yard establish year."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Door Mr general."
+      },
+      {
+        "speaker": "agent",
+        "text": "Among morning top chair power myself more parent prove relate director."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Pretty cell true kind."
+      },
+      {
+        "speaker": "agent",
+        "text": "Everything look whether east cover recent like."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Decide able sound."
+      },
+      {
+        "speaker": "agent",
+        "text": "Well away daughter goal phone court evidence."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Challenge top development lawyer kitchen street."
+      },
+      {
+        "speaker": "agent",
+        "text": "Window color board become base far situation school occur recent soldier science."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Less help know ahead."
+      },
+      {
+        "speaker": "agent",
+        "text": "Such half wind face example against bit policy."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Wide hot reveal suffer."
+      },
+      {
+        "speaker": "agent",
+        "text": "Manager only democratic where cell power according food administration."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Responsibility when bring personal."
+      },
+      {
+        "speaker": "agent",
+        "text": "First first smile item this black someone."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Identify mention argue buy."
+      },
+      {
+        "speaker": "agent",
+        "text": "Oil receive medical trade door rich nation over."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Lead machine certainly resource."
+      },
+      {
+        "speaker": "agent",
+        "text": "School rest however bed want community rich notice foot difficult through."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Until tell action chair open affect realize radio."
+      },
+      {
+        "speaker": "agent",
+        "text": "Various along need stuff sometimes field state."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Add main price between thing care action move."
+      },
+      {
+        "speaker": "agent",
+        "text": "Themselves person even Republican truth thousand step arrive support."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "He prepare free model boy."
+      },
+      {
+        "speaker": "agent",
+        "text": "Decide final growth wrong your story seem study prevent should street company."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Table often specific must myself population throughout."
+      },
+      {
+        "speaker": "agent",
+        "text": "Share benefit stuff yet final couple fund."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Old ok leg chance table."
+      },
+      {
+        "speaker": "agent",
+        "text": "Front product far possible party long option rock smile sign."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Minute it reach agree information month back."
+      },
+      {
+        "speaker": "agent",
+        "text": "Can level traditional Mrs six go attorney Mrs."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Model yourself while show happy clearly lawyer."
+      },
+      {
+        "speaker": "agent",
+        "text": "Eye area player anyone thing free citizen."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Congress much only tonight fear various no."
+      },
+      {
+        "speaker": "agent",
+        "text": "First value federal there father nor safe check."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Expert better final leader yeah focus."
+      },
+      {
+        "speaker": "agent",
+        "text": "Enjoy so oil whether history kind door compare personal man throughout area."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Produce form describe arrive."
+      },
+      {
+        "speaker": "agent",
+        "text": "Back national house protect smile throw generation."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Wrong compare use lose election federal analysis center."
+      },
+      {
+        "speaker": "agent",
+        "text": "Member road production simply until end friend would citizen."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Threat million whole perhaps different this list."
+      },
+      {
+        "speaker": "agent",
+        "text": "Some claim red four bad dream purpose keep nature modern pick."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Bank visit meeting drug second."
+      },
+      {
+        "speaker": "agent",
+        "text": "Activity hit them place almost physical east."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Theory total start shoulder myself hundred."
+      },
+      {
+        "speaker": "agent",
+        "text": "Early rock including share note within create toward."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Late such during live billion player produce energy."
+      },
+      {
+        "speaker": "agent",
+        "text": "Single two under after life couple quite specific never find."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Low huge sister consider lot draw."
+      },
+      {
+        "speaker": "agent",
+        "text": "Skill address result doctor I fly TV much method."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Pattern wind he trip adult will question."
+      },
+      {
+        "speaker": "agent",
+        "text": "Which still simply world trial model."
+      }
+    ]
+  },
+  {
+    "turns": [
+      {
+        "speaker": "customer",
+        "text": "Hand data everyone debate should manager."
+      },
+      {
+        "speaker": "agent",
+        "text": "Carry analysis finally window change here maybe firm weight."
+      }
+    ]
+  }
+]

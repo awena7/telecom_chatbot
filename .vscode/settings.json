@@ -1,0 +1,5 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "C:\\Users\\Dell\\Desktop\\telecom_chatbot_project\\venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true
+}
